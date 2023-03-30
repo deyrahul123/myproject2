@@ -113,7 +113,20 @@ const Home = () => {
             p={['4', '16']}
             textAlign={'center'}
           >
-            I love you babyyyy!!! I need body massage And head massage
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo
+            tempora deleniti quod, est eos veniam autem asperiores rem, nam
+            laudantium ut, similique ducimus amet sequi et voluptas iusto rerum
+            at aliquid numquam corporis ipsa reprehenderit? Porro iusto magnam,
+            sit vero deleniti, non nemo rem accusamus neque, quibusdam ab.
+            Libero, reprehenderit recusandae labore eaque, aspernatur aliquid
+            modi soluta ullam voluptatum unde repellat in molestias quod?
+            Doloribus ratione illum quisquam earum consequuntur nam voluptatem,
+            velit culpa maiores. Inventore esse illum excepturi dolores est
+            natus aliquid maiores sunt omnis deserunt accusantium amet enim eos
+            adipisci minima hic, nam provident quo aperiam quasi vel?
+            Dignissimos accusantium aliquid aut vel explicabo voluptatum
+            molestias fugit harum reprehenderit incidunt. Quis cumque explicabo
+            omnis officiis autem dolorum!{' '}
           </Text>
         </Stack>
       </Container>
